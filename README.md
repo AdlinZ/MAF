@@ -2,9 +2,9 @@
 
 **Minecraft Auto Fishing** — 面向 Minecraft Java 版的 Windows 自动钓鱼与桌面自动化工具。
 
-MAF 现阶段以自动钓鱼为核心，因此当前名称是 **Minecraft Auto Fishing**。项目的长期目标是逐步扩展为 **Minecraft Automation Framework**：在自动钓鱼的基础上，持续完善键鼠自动化、OCR 字幕识别、任务编排和 JourneyMap 数据管理等能力。
+> 严格来说，现在的 MAF 还应该叫 **Minecraft Auto Fishing**。不过没关系，缩写先占着——以后肯定会一路长成真正的 **Minecraft Automation Framework**。
 
-所有自动化均通过屏幕截图和系统级键鼠输入完成，不修改 Minecraft 客户端，也不注入游戏进程。
+在自动钓鱼之外，MAF 已经塞进了键鼠操作、OCR 字幕识别、任务编排和 JourneyMap 数据管理。所有自动化均通过屏幕截图和系统级键鼠输入完成，不修改 Minecraft 客户端，也不注入游戏进程。
 
 > 当前界面语言为简体中文，仅支持 Windows。可以直接使用 Windows release，也可以从 Python 源码运行。
 
