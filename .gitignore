@@ -1,0 +1,43 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+._*
+
+# Virtual environments and Python tooling
+.venv/
+.venv-*/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+build-*/
+dist/
+dist-*/
+release/
+*.spec
+
+# Local editor and environment files
+.idea/
+.vscode/
+.env
+.env.*
+*.log
+
+# Local MAF data and legacy data
+mc_assistant_settings.json
+assistant_history.db*
+*.db-wal
+*.db-shm
+
+# Local development notes
+.agents/
+task_plan.md
+findings.md
+progress.md
+
+# Generated map previews and metadata
+journeymap_*_preview.png
+journeymap_*_preview.png.json
+map_coordinates_merged_preview.png
+realtime_map_viewer_preview.png
